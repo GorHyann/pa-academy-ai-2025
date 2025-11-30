@@ -30,3 +30,6 @@ tutorials/data/
 venv/
 .venv/
 env/
+# Ignore dataset folder
+notebooks/data/
+
